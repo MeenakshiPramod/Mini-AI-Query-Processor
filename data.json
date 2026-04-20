@@ -1,0 +1,15 @@
+[
+    {
+        "original query": "hello ai system",
+        "response": "Processed result for: 'hello ai system'",
+        "status": "success",
+        "timestamp": "2026-04-20 11:16:45.150211"
+    },
+    {
+        "id": "bd951530-34e7-412d-a9d1-d8c6ce842117",
+        "original query": "what is ai",
+        "response": "Processed result for: 'what is ai'",
+        "status": "success",
+        "timestamp": "2026-04-20 11:18:28.375411"
+    }
+]

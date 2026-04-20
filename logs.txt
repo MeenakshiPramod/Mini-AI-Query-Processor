@@ -1,0 +1,10 @@
+2026-04-20 11:16:43.140244: Received query: Hello AI System
+2026-04-20 11:16:43.140244: Processing started for query: hello ai system
+2026-04-20 11:16:45.151231: Processing completed for query: hello ai system
+2026-04-20 11:18:26.362166: Received query: What is AI?
+2026-04-20 11:18:26.362166: Processing started for query: what is ai
+2026-04-20 11:18:28.375411: Processing completed for query: what is ai
+{"timestamp": "2026-04-20 11:23:05.329174", "level": "ERROR", "message": "Error occurred: Empty query after cleaning"}
+{"timestamp": "2026-04-20 11:28:11.720164", "level": "INFO", "message": "Received query: What is AI?"}
+{"timestamp": "2026-04-20 11:28:11.723296", "level": "INFO", "message": "Processing started for query: what is ai"}
+{"timestamp": "2026-04-20 11:28:13.741208", "level": "ERROR", "message": "Error occurred: 'QueryAgent' object has no attribute 'generate_response'"}
