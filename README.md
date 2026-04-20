@@ -49,11 +49,17 @@ python main.py --history
 ## Sample Output
 
 {
+    
   "id": "uuid",
+
   "original_query": "what is ai",
+
   "response": "Processed result for: 'what is ai'",
+
   "status": "success",
+
   "timestamp": "..."
+
 }
 
 ## Future Improvements
